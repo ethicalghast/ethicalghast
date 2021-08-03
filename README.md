@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ethicalghast
+- 👋 Hi, I’m @ghast
 - 👀 I’m interested in Ruby and Python language 
 - 🌱 I’m currently learning Java
 - 📫 How to reach me by my number +65 96618344
